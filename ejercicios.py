@@ -1,0 +1,1 @@
+print("Ejercicios de IA")
